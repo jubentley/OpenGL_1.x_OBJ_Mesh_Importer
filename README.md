@@ -1,4 +1,4 @@
-# OpenGL_1.x_OBJ_Mesh_Importer
+# OpenGL 1.x .OBJ Mesh Importer
 
 .obj Mesh Importer for OpenGL 1.x 
 
