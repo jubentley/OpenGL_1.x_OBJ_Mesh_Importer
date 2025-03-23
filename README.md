@@ -2,6 +2,8 @@
 
 .obj Mesh Importer for OpenGL 1.x 
 
+Reads in a .obj and .mtl file and renders it in OpenGL 1.x using glut.h
+
 uses glut.h
 
 Call as such:<br>
