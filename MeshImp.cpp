@@ -32,7 +32,7 @@ void MeshImp::Render(GLfloat X,GLfloat Y,GLfloat Z,GLfloat YAW, GLfloat PITCH, G
 		glNormal3f(
 			normals[face[i][0][2]] [0],
 			normals[face[i][0][2]] [1],
-			normals[face[i][0][2]] [2]	);
+			normals[face[i][0][2]] [2]);
 		glVertex3f(
 			vertex[face[i][0][0]] [0],
 			vertex[face[i][0][0]] [1],
